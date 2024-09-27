@@ -46,10 +46,10 @@ while True:
 ## OUTPUT
 
 ### CLIENT:
-![image](https://github.com/user-attachments/assets/771af6a6-f910-4178-b062-30727cf00062)
+![image](https://github.com/user-attachments/assets/741a44fe-19d6-4b98-bbea-dfd96dc9a6de)
 
 ### SERVER:
-![image](https://github.com/user-attachments/assets/a0394dbb-2de3-4006-a453-f91e4bb37758)
+![image](https://github.com/user-attachments/assets/32b5ed02-3575-4993-b2f5-3c6a333c0c7d)
 
 
 ## RESULT
